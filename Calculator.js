@@ -46,5 +46,5 @@ function power(x, y) {
 
 
 // Sample implementation
-let result = floorValue(50.345678999);
+let result = power(50, 3);
 console.log (result);
