@@ -34,6 +34,13 @@ function tangent(x) {
     return Math.tan(x);
 }
 
+function exponentialValue(x) {
+    return Math.exp(x);
+}
+
+function power(x, y) {
+    return Math.pow(x, y);
+}
 
 
 
